@@ -1,4 +1,5 @@
 def input_data():
+
     while True:
         try:    
             cm = int(input("請輸入身高(公分):"))
@@ -25,20 +26,21 @@ def input_data():
             print(f'輸入錯誤{kg}')
             continue
     return (cm,kg)
-def get_status(bmi: float) -> str:
-    if bmi >= 35:
-        return "重度肥胖：BMI≧35"
-    elif bmi >= 30:
-        return "中度肥胖：30≦BMI<35"
-    elif bmi >= 27:
-        return "輕度肥胖：27≦BMI<30"
-    elif bmi >= 24:
-        return "過重：24≦BMI<27"
-    elif bmi >= 18.5:
-        return "正常範圍：18.5≦BMI<24"
-    else:
-        return "體重過輕：BMI<18.5"
 
+
+def get_status(bmi:float)->str:
+    if bmi>=35:
+        return "重度肥胖：BMI≧35"
+    elif bmi >=30:
+        return "中度肥胖：30≦BMI"
+    elif bmi >=27:
+        return "輕度肥胖：27≦BMI"
+    elif bmi >=24:
+        return "過重"
+    elif bmi >=18.5:
+        return "正常範圍"
+    else:
+        return "體重過輕"
 
 def calculate_bmi(kg:int, cm:int)-> float:
     
