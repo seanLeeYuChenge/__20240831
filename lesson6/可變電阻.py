@@ -1,7 +1,7 @@
 from machine import Timer,ADC,Pin,PWM,RTC
+import tools
 
-
-
+tools.connect()
 adc = ADC(4)
 pwm = PWM(Pin(15),freq=50)
 conversion_factor = 3.3 / (65535)
