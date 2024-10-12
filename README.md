@@ -41,3 +41,5 @@ https://www.youtube.com/watch?v=TkEv9BU4mVo
 
 # 第六堂課影片
 https://www.youtube.com/watch?v=8ZLWbNhBLDk
+
+https://www.youtube.com/watch?v=cHKXsX8paLg
