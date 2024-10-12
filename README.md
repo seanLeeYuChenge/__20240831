@@ -38,3 +38,6 @@ https://youtube.com/live/-vPnCMW5rl4
 https://www.youtube.com/watch?v=SxWh_Aeg0xQ
 
 https://www.youtube.com/watch?v=TkEv9BU4mVo
+
+# 第六堂課影片
+https://www.youtube.com/watch?v=8ZLWbNhBLDk
