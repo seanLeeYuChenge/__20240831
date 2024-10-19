@@ -47,3 +47,4 @@ https://www.youtube.com/watch?v=cHKXsX8paLg
 # 第七堂課影片
 https://www.youtube.com/watch?v=ZjFu3osewXo
 
+https://www.youtube.com/watch?v=7ncDMge6d0M

@@ -50,7 +50,7 @@ def on_message(client, userdata, msg):
             print(f'led_value:{led_value}')
             today = datetime.now()
             now_str = today.strftime("%Y-%m-%d")
-            #save_data = [now_str,"SA-10/LIGHT_LEVEL",led_value]
+            #save_data = [now_str,"SA-01/LED_LEVEL",led_value]
             record(now_str,topic,led_value)
     #print(f"Received message '{msg.payload.decode()}' on topic '{msg.topic}'")
 
