@@ -43,3 +43,7 @@ https://www.youtube.com/watch?v=TkEv9BU4mVo
 https://www.youtube.com/watch?v=8ZLWbNhBLDk
 
 https://www.youtube.com/watch?v=cHKXsX8paLg
+
+# 第七堂課影片
+https://www.youtube.com/watch?v=ZjFu3osewXo
+
