@@ -1,0 +1,9 @@
+conda create --name venv1 python=3.11
+conda activate venv1
+conda info --envs
+conda init powershell
+Get-ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+conda activate venv1
+
+paho-mqtt==2.1.0
