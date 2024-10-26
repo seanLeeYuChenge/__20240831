@@ -51,3 +51,5 @@ https://www.youtube.com/watch?v=7ncDMge6d0M
 
 # 第八堂課影片
 https://www.youtube.com/watch?v=53XbHh4_Bvg
+
+https://www.youtube.com/watch?v=L_Xitse89Sc
